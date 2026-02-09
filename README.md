@@ -44,6 +44,7 @@ openclaw gateway start
 - [技能（Skills）使用](#技能skills-使用)
 - [消息渠道集成](#消息渠道集成)
 - [定时任务（Cron）](#定时任务cron)
+- **[Notion 集成教程](docs/notion-integration.md)** - 详细的 Notion API 集成指南
 
 ### 最佳实践
 - [项目结构建议](#项目结构建议)
